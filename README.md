@@ -3,6 +3,6 @@ An analysis on a pharmaceutical Sales Data.
 
 ## Overview
 
-## Data sourcin
+## Data sourcing
 
 ## Meta Data.
