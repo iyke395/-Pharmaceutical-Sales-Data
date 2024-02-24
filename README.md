@@ -5,4 +5,4 @@ An analysis on a pharmaceutical Sales Data.
 
 ## Data sourcing
 
-## Meta Data.
+## Meta Data
