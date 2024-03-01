@@ -1,5 +1,5 @@
 # Pharmaceutical Sales Data
-An analysis on a pharmaceutical Sales Data
+An Analysis on a pharmaceutical Sales Data
 
 ## Overview
 
