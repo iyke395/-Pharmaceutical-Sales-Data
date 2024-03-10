@@ -1,7 +1,7 @@
 # Pharmaceutical Sales Data
 An Analysis on a Pharmaceutical Sales Data.
 
-## Overview,,ml
+## Overview,,m
 
 ## Data sourcing
 
