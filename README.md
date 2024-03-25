@@ -7,4 +7,3 @@ An Analysis on a Pharmaceutical Sales Data.
 
 ## Meta Data.
 
- B
